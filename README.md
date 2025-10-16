@@ -1,3 +1,3 @@
-# test-sdaw1
+# test-sdaw
 
-Esto es una simple prueba
+Esto es una simple prueba en la clase de SDAW2
